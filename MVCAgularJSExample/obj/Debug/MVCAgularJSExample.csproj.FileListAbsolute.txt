@@ -1,0 +1,164 @@
+C:\Users\rache\Desktop\New folder\Cobra-Onboarding\MVCAgularJSExample\bin\ApplicationInsights.config
+C:\Users\rache\Desktop\New folder\Cobra-Onboarding\MVCAgularJSExample\bin\roslyn\csc.exe
+C:\Users\rache\Desktop\New folder\Cobra-Onboarding\MVCAgularJSExample\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rache\Desktop\New folder\Cobra-Onboarding\MVCAgularJSExample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rache\Desktop\New folder\Cobra-Onboarding\MVCAgularJSExample\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rache\Desktop\New folder\Cobra-Onboarding\MVCAgularJSExample\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rache\Desktop\New folder\Cobra-Onboarding\MVCAgularJSExample\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rache\Desktop\New folder\Cobra-Onboarding\MVCAgularJSExample\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rache\Desktop\New folder\Cobra-Onboarding\MVCAgularJSExample\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rache\Desktop\New folder\Cobra-Onboarding\MVCAgularJSExample\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rache\Desktop\New folder\Cobra-Onboarding\MVCAgularJSExample\bin\roslyn\vbc.exe
+C:\Users\rache\Desktop\New folder\Cobra-Onboarding\MVCAgularJSExample\bin\roslyn\VBCSCompiler.exe
+C:\Users\rache\Desktop\New folder\Cobra-Onboarding\MVCAgularJSExample\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rache\Desktop\New folder\Cobra-Onboarding\MVCAgularJSExample\bin\MVCAgularJSExample.dll.config
+C:\Users\rache\Desktop\New folder\Cobra-Onboarding\MVCAgularJSExample\bin\MVCAgularJSExample.dll
+C:\Users\rache\Desktop\New folder\Cobra-Onboarding\MVCAgularJSExample\bin\MVCAgularJSExample.pdb
+C:\Users\rache\Desktop\New folder\Cobra-Onboarding\MVCAgularJSExample\bin\Antlr3.Runtime.dll
+C:\Users\rache\Desktop\New folder\Cobra-Onboarding\MVCAgularJSExample\bin\EntityFramework.dll
+C:\Users\rache\Desktop\New folder\Cobra-Onboarding\MVCAgularJSExample\bin\EntityFramework.SqlServer.dll
+C:\Users\rache\Desktop\New folder\Cobra-Onboarding\MVCAgularJSExample\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\rache\Desktop\New folder\Cobra-Onboarding\MVCAgularJSExample\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\rache\Desktop\New folder\Cobra-Onboarding\MVCAgularJSExample\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\rache\Desktop\New folder\Cobra-Onboarding\MVCAgularJSExample\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\rache\Desktop\New folder\Cobra-Onboarding\MVCAgularJSExample\bin\Microsoft.AI.Web.dll
+C:\Users\rache\Desktop\New folder\Cobra-Onboarding\MVCAgularJSExample\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\rache\Desktop\New folder\Cobra-Onboarding\MVCAgularJSExample\bin\Microsoft.ApplicationInsights.dll
+C:\Users\rache\Desktop\New folder\Cobra-Onboarding\MVCAgularJSExample\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\rache\Desktop\New folder\Cobra-Onboarding\MVCAgularJSExample\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\rache\Desktop\New folder\Cobra-Onboarding\MVCAgularJSExample\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\rache\Desktop\New folder\Cobra-Onboarding\MVCAgularJSExample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rache\Desktop\New folder\Cobra-Onboarding\MVCAgularJSExample\bin\Microsoft.Owin.dll
+C:\Users\rache\Desktop\New folder\Cobra-Onboarding\MVCAgularJSExample\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\rache\Desktop\New folder\Cobra-Onboarding\MVCAgularJSExample\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\rache\Desktop\New folder\Cobra-Onboarding\MVCAgularJSExample\bin\Microsoft.Owin.Security.dll
+C:\Users\rache\Desktop\New folder\Cobra-Onboarding\MVCAgularJSExample\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\rache\Desktop\New folder\Cobra-Onboarding\MVCAgularJSExample\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\rache\Desktop\New folder\Cobra-Onboarding\MVCAgularJSExample\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\rache\Desktop\New folder\Cobra-Onboarding\MVCAgularJSExample\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\rache\Desktop\New folder\Cobra-Onboarding\MVCAgularJSExample\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\rache\Desktop\New folder\Cobra-Onboarding\MVCAgularJSExample\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\rache\Desktop\New folder\Cobra-Onboarding\MVCAgularJSExample\bin\Newtonsoft.Json.dll
+C:\Users\rache\Desktop\New folder\Cobra-Onboarding\MVCAgularJSExample\bin\Owin.dll
+C:\Users\rache\Desktop\New folder\Cobra-Onboarding\MVCAgularJSExample\bin\System.Web.Helpers.dll
+C:\Users\rache\Desktop\New folder\Cobra-Onboarding\MVCAgularJSExample\bin\System.Web.Mvc.dll
+C:\Users\rache\Desktop\New folder\Cobra-Onboarding\MVCAgularJSExample\bin\System.Web.Optimization.dll
+C:\Users\rache\Desktop\New folder\Cobra-Onboarding\MVCAgularJSExample\bin\System.Web.Razor.dll
+C:\Users\rache\Desktop\New folder\Cobra-Onboarding\MVCAgularJSExample\bin\System.Web.WebPages.Deployment.dll
+C:\Users\rache\Desktop\New folder\Cobra-Onboarding\MVCAgularJSExample\bin\System.Web.WebPages.dll
+C:\Users\rache\Desktop\New folder\Cobra-Onboarding\MVCAgularJSExample\bin\System.Web.WebPages.Razor.dll
+C:\Users\rache\Desktop\New folder\Cobra-Onboarding\MVCAgularJSExample\bin\WebGrease.dll
+C:\Users\rache\Desktop\New folder\Cobra-Onboarding\MVCAgularJSExample\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\rache\Desktop\New folder\Cobra-Onboarding\MVCAgularJSExample\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\rache\Desktop\New folder\Cobra-Onboarding\MVCAgularJSExample\bin\Microsoft.AI.Web.xml
+C:\Users\rache\Desktop\New folder\Cobra-Onboarding\MVCAgularJSExample\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\rache\Desktop\New folder\Cobra-Onboarding\MVCAgularJSExample\bin\Microsoft.ApplicationInsights.xml
+C:\Users\rache\Desktop\New folder\Cobra-Onboarding\MVCAgularJSExample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rache\Desktop\New folder\Cobra-Onboarding\MVCAgularJSExample\bin\System.Web.Helpers.xml
+C:\Users\rache\Desktop\New folder\Cobra-Onboarding\MVCAgularJSExample\bin\System.Web.Mvc.xml
+C:\Users\rache\Desktop\New folder\Cobra-Onboarding\MVCAgularJSExample\bin\System.Web.Optimization.xml
+C:\Users\rache\Desktop\New folder\Cobra-Onboarding\MVCAgularJSExample\bin\System.Web.Razor.xml
+C:\Users\rache\Desktop\New folder\Cobra-Onboarding\MVCAgularJSExample\bin\System.Web.WebPages.xml
+C:\Users\rache\Desktop\New folder\Cobra-Onboarding\MVCAgularJSExample\bin\System.Web.WebPages.Deployment.xml
+C:\Users\rache\Desktop\New folder\Cobra-Onboarding\MVCAgularJSExample\bin\System.Web.WebPages.Razor.xml
+C:\Users\rache\Desktop\New folder\Cobra-Onboarding\MVCAgularJSExample\bin\Antlr3.Runtime.pdb
+C:\Users\rache\Desktop\New folder\Cobra-Onboarding\MVCAgularJSExample\bin\Newtonsoft.Json.xml
+C:\Users\rache\Desktop\New folder\Cobra-Onboarding\MVCAgularJSExample\bin\EntityFramework.xml
+C:\Users\rache\Desktop\New folder\Cobra-Onboarding\MVCAgularJSExample\bin\EntityFramework.SqlServer.xml
+C:\Users\rache\Desktop\New folder\Cobra-Onboarding\MVCAgularJSExample\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\rache\Desktop\New folder\Cobra-Onboarding\MVCAgularJSExample\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\rache\Desktop\New folder\Cobra-Onboarding\MVCAgularJSExample\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\rache\Desktop\New folder\Cobra-Onboarding\MVCAgularJSExample\bin\Microsoft.Owin.xml
+C:\Users\rache\Desktop\New folder\Cobra-Onboarding\MVCAgularJSExample\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\rache\Desktop\New folder\Cobra-Onboarding\MVCAgularJSExample\bin\Microsoft.Owin.Security.xml
+C:\Users\rache\Desktop\New folder\Cobra-Onboarding\MVCAgularJSExample\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\rache\Desktop\New folder\Cobra-Onboarding\MVCAgularJSExample\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\rache\Desktop\New folder\Cobra-Onboarding\MVCAgularJSExample\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\rache\Desktop\New folder\Cobra-Onboarding\MVCAgularJSExample\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\rache\Desktop\New folder\Cobra-Onboarding\MVCAgularJSExample\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\rache\Desktop\New folder\Cobra-Onboarding\MVCAgularJSExample\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\rache\Desktop\New folder\Cobra-Onboarding\MVCAgularJSExample\obj\Debug\MVCAgularJSExample.csprojResolveAssemblyReference.cache
+C:\Users\rache\Desktop\New folder\Cobra-Onboarding\MVCAgularJSExample\obj\Debug\MVCAgularJSExample.dll
+C:\Users\rache\Desktop\New folder\Cobra-Onboarding\MVCAgularJSExample\obj\Debug\MVCAgularJSExample.pdb
+C:\Users\rache\OneDrive\Documents\PracticePrograms\MVCAgularJSExample\bin\ApplicationInsights.config
+C:\Users\rache\OneDrive\Documents\PracticePrograms\MVCAgularJSExample\bin\roslyn\csc.exe
+C:\Users\rache\OneDrive\Documents\PracticePrograms\MVCAgularJSExample\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rache\OneDrive\Documents\PracticePrograms\MVCAgularJSExample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rache\OneDrive\Documents\PracticePrograms\MVCAgularJSExample\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rache\OneDrive\Documents\PracticePrograms\MVCAgularJSExample\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rache\OneDrive\Documents\PracticePrograms\MVCAgularJSExample\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rache\OneDrive\Documents\PracticePrograms\MVCAgularJSExample\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rache\OneDrive\Documents\PracticePrograms\MVCAgularJSExample\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rache\OneDrive\Documents\PracticePrograms\MVCAgularJSExample\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rache\OneDrive\Documents\PracticePrograms\MVCAgularJSExample\bin\roslyn\vbc.exe
+C:\Users\rache\OneDrive\Documents\PracticePrograms\MVCAgularJSExample\bin\roslyn\VBCSCompiler.exe
+C:\Users\rache\OneDrive\Documents\PracticePrograms\MVCAgularJSExample\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rache\OneDrive\Documents\PracticePrograms\MVCAgularJSExample\bin\MVCAgularJSExample.dll.config
+C:\Users\rache\OneDrive\Documents\PracticePrograms\MVCAgularJSExample\bin\MVCAgularJSExample.dll
+C:\Users\rache\OneDrive\Documents\PracticePrograms\MVCAgularJSExample\bin\MVCAgularJSExample.pdb
+C:\Users\rache\OneDrive\Documents\PracticePrograms\MVCAgularJSExample\bin\Antlr3.Runtime.dll
+C:\Users\rache\OneDrive\Documents\PracticePrograms\MVCAgularJSExample\bin\EntityFramework.dll
+C:\Users\rache\OneDrive\Documents\PracticePrograms\MVCAgularJSExample\bin\EntityFramework.SqlServer.dll
+C:\Users\rache\OneDrive\Documents\PracticePrograms\MVCAgularJSExample\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\rache\OneDrive\Documents\PracticePrograms\MVCAgularJSExample\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\rache\OneDrive\Documents\PracticePrograms\MVCAgularJSExample\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\rache\OneDrive\Documents\PracticePrograms\MVCAgularJSExample\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\rache\OneDrive\Documents\PracticePrograms\MVCAgularJSExample\bin\Microsoft.AI.Web.dll
+C:\Users\rache\OneDrive\Documents\PracticePrograms\MVCAgularJSExample\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\rache\OneDrive\Documents\PracticePrograms\MVCAgularJSExample\bin\Microsoft.ApplicationInsights.dll
+C:\Users\rache\OneDrive\Documents\PracticePrograms\MVCAgularJSExample\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\rache\OneDrive\Documents\PracticePrograms\MVCAgularJSExample\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\rache\OneDrive\Documents\PracticePrograms\MVCAgularJSExample\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\rache\OneDrive\Documents\PracticePrograms\MVCAgularJSExample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rache\OneDrive\Documents\PracticePrograms\MVCAgularJSExample\bin\Microsoft.Owin.dll
+C:\Users\rache\OneDrive\Documents\PracticePrograms\MVCAgularJSExample\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\rache\OneDrive\Documents\PracticePrograms\MVCAgularJSExample\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\rache\OneDrive\Documents\PracticePrograms\MVCAgularJSExample\bin\Microsoft.Owin.Security.dll
+C:\Users\rache\OneDrive\Documents\PracticePrograms\MVCAgularJSExample\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\rache\OneDrive\Documents\PracticePrograms\MVCAgularJSExample\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\rache\OneDrive\Documents\PracticePrograms\MVCAgularJSExample\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\rache\OneDrive\Documents\PracticePrograms\MVCAgularJSExample\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\rache\OneDrive\Documents\PracticePrograms\MVCAgularJSExample\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\rache\OneDrive\Documents\PracticePrograms\MVCAgularJSExample\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\rache\OneDrive\Documents\PracticePrograms\MVCAgularJSExample\bin\Newtonsoft.Json.dll
+C:\Users\rache\OneDrive\Documents\PracticePrograms\MVCAgularJSExample\bin\Owin.dll
+C:\Users\rache\OneDrive\Documents\PracticePrograms\MVCAgularJSExample\bin\System.Web.Helpers.dll
+C:\Users\rache\OneDrive\Documents\PracticePrograms\MVCAgularJSExample\bin\System.Web.Mvc.dll
+C:\Users\rache\OneDrive\Documents\PracticePrograms\MVCAgularJSExample\bin\System.Web.Optimization.dll
+C:\Users\rache\OneDrive\Documents\PracticePrograms\MVCAgularJSExample\bin\System.Web.Razor.dll
+C:\Users\rache\OneDrive\Documents\PracticePrograms\MVCAgularJSExample\bin\System.Web.WebPages.Deployment.dll
+C:\Users\rache\OneDrive\Documents\PracticePrograms\MVCAgularJSExample\bin\System.Web.WebPages.dll
+C:\Users\rache\OneDrive\Documents\PracticePrograms\MVCAgularJSExample\bin\System.Web.WebPages.Razor.dll
+C:\Users\rache\OneDrive\Documents\PracticePrograms\MVCAgularJSExample\bin\WebGrease.dll
+C:\Users\rache\OneDrive\Documents\PracticePrograms\MVCAgularJSExample\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\rache\OneDrive\Documents\PracticePrograms\MVCAgularJSExample\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\rache\OneDrive\Documents\PracticePrograms\MVCAgularJSExample\bin\Microsoft.AI.Web.xml
+C:\Users\rache\OneDrive\Documents\PracticePrograms\MVCAgularJSExample\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\rache\OneDrive\Documents\PracticePrograms\MVCAgularJSExample\bin\Microsoft.ApplicationInsights.xml
+C:\Users\rache\OneDrive\Documents\PracticePrograms\MVCAgularJSExample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rache\OneDrive\Documents\PracticePrograms\MVCAgularJSExample\bin\System.Web.Helpers.xml
+C:\Users\rache\OneDrive\Documents\PracticePrograms\MVCAgularJSExample\bin\System.Web.Mvc.xml
+C:\Users\rache\OneDrive\Documents\PracticePrograms\MVCAgularJSExample\bin\System.Web.Optimization.xml
+C:\Users\rache\OneDrive\Documents\PracticePrograms\MVCAgularJSExample\bin\System.Web.Razor.xml
+C:\Users\rache\OneDrive\Documents\PracticePrograms\MVCAgularJSExample\bin\System.Web.WebPages.xml
+C:\Users\rache\OneDrive\Documents\PracticePrograms\MVCAgularJSExample\bin\System.Web.WebPages.Deployment.xml
+C:\Users\rache\OneDrive\Documents\PracticePrograms\MVCAgularJSExample\bin\System.Web.WebPages.Razor.xml
+C:\Users\rache\OneDrive\Documents\PracticePrograms\MVCAgularJSExample\bin\Antlr3.Runtime.pdb
+C:\Users\rache\OneDrive\Documents\PracticePrograms\MVCAgularJSExample\bin\Newtonsoft.Json.xml
+C:\Users\rache\OneDrive\Documents\PracticePrograms\MVCAgularJSExample\bin\EntityFramework.xml
+C:\Users\rache\OneDrive\Documents\PracticePrograms\MVCAgularJSExample\bin\EntityFramework.SqlServer.xml
+C:\Users\rache\OneDrive\Documents\PracticePrograms\MVCAgularJSExample\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\rache\OneDrive\Documents\PracticePrograms\MVCAgularJSExample\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\rache\OneDrive\Documents\PracticePrograms\MVCAgularJSExample\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\rache\OneDrive\Documents\PracticePrograms\MVCAgularJSExample\bin\Microsoft.Owin.xml
+C:\Users\rache\OneDrive\Documents\PracticePrograms\MVCAgularJSExample\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\rache\OneDrive\Documents\PracticePrograms\MVCAgularJSExample\bin\Microsoft.Owin.Security.xml
+C:\Users\rache\OneDrive\Documents\PracticePrograms\MVCAgularJSExample\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\rache\OneDrive\Documents\PracticePrograms\MVCAgularJSExample\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\rache\OneDrive\Documents\PracticePrograms\MVCAgularJSExample\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\rache\OneDrive\Documents\PracticePrograms\MVCAgularJSExample\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\rache\OneDrive\Documents\PracticePrograms\MVCAgularJSExample\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\rache\OneDrive\Documents\PracticePrograms\MVCAgularJSExample\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\rache\OneDrive\Documents\PracticePrograms\MVCAgularJSExample\obj\Debug\MVCAgularJSExample.csprojResolveAssemblyReference.cache
+C:\Users\rache\OneDrive\Documents\PracticePrograms\MVCAgularJSExample\obj\Debug\MVCAgularJSExample.dll
+C:\Users\rache\OneDrive\Documents\PracticePrograms\MVCAgularJSExample\obj\Debug\MVCAgularJSExample.pdb

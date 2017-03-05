@@ -1,0 +1,21 @@
+﻿
+<div ng-app="myApp" ng-controller="myCtrl">
+    <h2>{{title}}</h2>
+    <table>
+        <tr>
+            <th>Name</th>
+            <th>Address</th>
+            <th>PhoneNumber</th>
+        </tr>
+        <tr ng-repeat="x in person">
+            <td>{{x.Name}}</td>
+            <td>{{x.Address}}</td>
+            <td>{{x.PhoneNumber}}</td>
+        </tr>
+    </table>
+</div>
+
+<script src="~/App/PerosnApp.js"></script>
+<link href="~/CSS/PersonStyleSheet.css" rel="stylesheet" />
+
+
